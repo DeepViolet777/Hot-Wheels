@@ -359,7 +359,7 @@ body {
   height: 454px;
   padding-top: 40px;
   background-color: #b2b2b2;
-  background-image: url('../../../img/header_background.jpg');
+  background-image: url('../../img/header_background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
